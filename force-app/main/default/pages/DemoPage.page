@@ -8,9 +8,8 @@
     <apex:pageBlock title="Rules of SFDX Demo" mode="edit">
       <!-- SFDX99 Rules -->
       <apex:outputPanel styleClass="rules">
-        <p>The 1st rule of SFDX Demo is: You do not talk about SFDX Demo.</p>
-        <p>The 2nd rule of SFDX Demo is: You do not talk about SFDX Demo.</p>
-        <p>The 3rd rule of SFDX Demo is: You do not talk about SFDX Demo.</p>
+        <p>The 1st rule of SFDX Demo is: Hello World!</p>
+
       </apex:outputPanel>
 
       <!-- Fields -->
