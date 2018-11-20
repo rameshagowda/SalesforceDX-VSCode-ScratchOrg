@@ -35,13 +35,12 @@
             "sourcePath": "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1542597935372,
-            "changeTime": 1542597935372,
-            "contentHash": "6899b872e57456c81d7a2b00b0b5d5cee2f995d5",
+            "modifiedTime": 1542682567478,
+            "changeTime": 1542682567478,
+            "contentHash": "13cf6446d087b1ac84717428011f639d99aec3e1",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -80,7 +79,7 @@
             "sourcePath": "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\DemoController.cls",
             "isDirectory": false,
             "size": 927,
-            "modifiedTime": 1542598351419,
+            "modifiedTime": 1542683056425,
             "changeTime": 1542598351419,
             "contentHash": "cd7b8089de83cb1fadc4f54f69e77ff8816424b1",
             "isMetadataFile": false,
@@ -124,10 +123,10 @@
         {
             "sourcePath": "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\pages\\DemoPage.page",
             "isDirectory": false,
-            "size": 1543,
-            "modifiedTime": 1542598055249,
-            "changeTime": 1542598055249,
-            "contentHash": "d56cc77570ddc24f356d35ab346feeace058e68d",
+            "size": 1368,
+            "modifiedTime": 1542600535893,
+            "changeTime": 1542600535893,
+            "contentHash": "922891869bb0a5992da1acb9d28d67b9454038e8",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -170,13 +169,12 @@
             "sourcePath": "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\test\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1542598162048,
-            "changeTime": 1542598162048,
-            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "modifiedTime": 1542683476010,
+            "changeTime": 1542683476010,
+            "contentHash": "a035356c8a0e9f8eeeb9c4d15292ca76658874b5",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -230,13 +228,77 @@
             "sourcePath": "c:\\Salesforce\\Apex_VSCode\\sfdx-apex",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1542597374794,
-            "changeTime": 1542597374841,
-            "contentHash": "6922faba265add01d547ced29a08ace82a06826b",
+            "modifiedTime": 1542601023125,
+            "changeTime": 1542599717272,
+            "contentHash": "e50970e31430d55e2f95206f602c8f1cb73041a4",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
+        }
+    ],
+    [
+        "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\Triggers",
+        {
+            "sourcePath": "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\Triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542682610814,
+            "changeTime": 1542682610814,
+            "contentHash": "4a4e98ebf97d3a888456ee0e54059a2c3242ff12",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\Triggers\\AccountDeletion.trigger",
+        {
+            "sourcePath": "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\Triggers\\AccountDeletion.trigger",
+            "isDirectory": false,
+            "size": 384,
+            "modifiedTime": 1542683043709,
+            "changeTime": 1542683043709,
+            "contentHash": "694eef2f9d8a84a78e7e5decaf959bf36d04bcec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\Triggers\\AccountDeletion.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\Triggers\\AccountDeletion.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1542682610823,
+            "changeTime": 1542682610823,
+            "contentHash": "561be9f608a90bbd000b869c945537e6a60552f1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\test\\default\\TestAccountDeletion.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\test\\default\\TestAccountDeletion.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1132,
+            "modifiedTime": 1542683705705,
+            "changeTime": 1542683705705,
+            "contentHash": "9767d9d9e241b58149df6cdc9aa2e03998f3c9f0"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\test\\default\\TestAccountDeletion.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\test\\default\\TestAccountDeletion.cls-meta.xml",
+            "isDirectory": false,
+            "size": 197,
+            "modifiedTime": 1542683476016,
+            "changeTime": 1542683476016,
+            "contentHash": "be22f6c1bca40c676cc9bd6b051f95b50f826d64",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
