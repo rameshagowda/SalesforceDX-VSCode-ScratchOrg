@@ -36,10 +36,12 @@
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1542767183178,
-            "changeTime": 1542766726104,
+            "changeTime": 1542767183178,
             "contentHash": "0f9ba78c34859bbc1e04e8436e589b85261a9f7f",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -63,12 +65,13 @@
             "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1542766833005,
-            "changeTime": 1542766833005,
-            "contentHash": "8ac5c3b908f3b0e8a13702e76f793f026cd84522",
+            "modifiedTime": 1542980138383,
+            "changeTime": 1542980138383,
+            "contentHash": "507cffb5b1a4efbcedf15b3b187735107ffbaa96",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -76,10 +79,10 @@
         {
             "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\DemoController.cls",
             "isDirectory": false,
-            "size": 927,
-            "modifiedTime": 1542683056425,
-            "changeTime": 1542598351419,
-            "contentHash": "cd7b8089de83cb1fadc4f54f69e77ff8816424b1",
+            "size": 928,
+            "modifiedTime": 1542981209248,
+            "changeTime": 1542981209248,
+            "contentHash": "9f0477e01923599c93bc2b63d1e7c24e4c5cdfde",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -172,7 +175,8 @@
             "contentHash": "a035356c8a0e9f8eeeb9c4d15292ca76658874b5",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -186,7 +190,8 @@
             "contentHash": "778f04475b17a9bc699dc4692d0adb7822d7c82d",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -196,7 +201,7 @@
             "isDirectory": false,
             "size": 632,
             "modifiedTime": 1542598403009,
-            "changeTime": 1542598403009,
+            "changeTime": 1542680475005,
             "contentHash": "7ab4162f56f1079aaceef7d3137d2a28017a3289",
             "isMetadataFile": false,
             "state": "u",
@@ -243,7 +248,9 @@
             "changeTime": 1542767219464,
             "contentHash": "292146608a2a2f409b004bba3ad7a21cc1e65bff",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -256,7 +263,9 @@
             "changeTime": 1542683043709,
             "contentHash": "694eef2f9d8a84a78e7e5decaf959bf36d04bcec",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -269,7 +278,9 @@
             "changeTime": 1542682610823,
             "contentHash": "561be9f608a90bbd000b869c945537e6a60552f1",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -282,7 +293,9 @@
             "changeTime": 1542683798157,
             "contentHash": "081061db1a9e7f3acff33199e1e31d504ae67c37",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -295,7 +308,9 @@
             "changeTime": 1542683476016,
             "contentHash": "be22f6c1bca40c676cc9bd6b051f95b50f826d64",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -308,7 +323,9 @@
             "changeTime": 1542766725948,
             "contentHash": "32c22f5a152b8c1c96e19adc718783ff1720cbf3",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -321,7 +338,9 @@
             "changeTime": 1542766725964,
             "contentHash": "2cffb137383c70d6a44b7c3111caf7eb2418d5a4",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -334,7 +353,9 @@
             "changeTime": 1542766725976,
             "contentHash": "0c716f544badf942069ea4b9cbc69c2e89c1e443",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -347,7 +368,9 @@
             "changeTime": 1542766725992,
             "contentHash": "26eb5eb158782c7be08b4751f2bdc07919d90d5d",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -360,7 +383,9 @@
             "changeTime": 1542766726064,
             "contentHash": "7dacabd257e25ad464e9de7dd8959aedd542b366",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -373,7 +398,9 @@
             "changeTime": 1542766726080,
             "contentHash": "26eb5eb158782c7be08b4751f2bdc07919d90d5d",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -386,7 +413,9 @@
             "changeTime": 1542766726100,
             "contentHash": "3d634137fef55028e8c7325d83dea615ebf66775",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -399,7 +428,9 @@
             "changeTime": 1542766726108,
             "contentHash": "f3ac6fb4c0088f45024be41c1e7f00008e199f70",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -412,7 +443,9 @@
             "changeTime": 1542766725948,
             "contentHash": "2c811c0fa35f6aa48ace27cd4e8d09585acc701f",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -425,7 +458,9 @@
             "changeTime": 1542766725928,
             "contentHash": "e5298fdd6fab1dfb3a2536631edf25905edd1ecd",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -438,7 +473,9 @@
             "changeTime": 1542766725948,
             "contentHash": "2ac1b500fe571e215b9bc17096663f0c474c6acf",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -451,7 +488,9 @@
             "changeTime": 1542766725972,
             "contentHash": "0f567f62fb794f5460149c83d40f03c9fcdc09cf",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -464,7 +503,9 @@
             "changeTime": 1542766726096,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -477,7 +518,9 @@
             "changeTime": 1542766726108,
             "contentHash": "7e02ae8562673a4f4dfaf75e0b8ce41925fea427",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -490,7 +533,9 @@
             "changeTime": 1542768963685,
             "contentHash": "73d25a471fa5fc4da1ca68a420e8c7cefb993927",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -503,7 +548,9 @@
             "changeTime": 1542766833013,
             "contentHash": "ddcbcf825e286d523951d7b52288be9b34c5b6cf",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -516,7 +563,9 @@
             "changeTime": 1542888784229,
             "contentHash": "b322884e382c547414030eaa29e61ba606d5bdd2",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -529,7 +578,9 @@
             "changeTime": 1542767476838,
             "contentHash": "dc3b7365a4ed2276dab2f266cd7cbbc965e766d9",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -542,7 +593,9 @@
             "changeTime": 1542768986229,
             "contentHash": "c84e966ca8b098a54bdcf9296c79b48b8d72fe08",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -555,7 +608,68 @@
             "changeTime": 1542767219472,
             "contentHash": "86cb5bce22e90f949df4c4a93ca7ba7151837f10",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\ConvertToCLA.cls",
+        {
+            "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\ConvertToCLA.cls",
+            "isDirectory": false,
+            "size": 2405,
+            "modifiedTime": 1542982505571,
+            "changeTime": 1542982505571,
+            "contentHash": "bf770b223af2b43ac258c7ad6abd0fe45b9d551b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\ConvertToCLA.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\ConvertToCLA.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1542970621510,
+            "changeTime": 1542970621510,
+            "contentHash": "335c2aa16e5845f9c5ba3d24c0f6bb73a40acff3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\DMLOperations.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\DMLOperations.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5950,
+            "modifiedTime": 1543119198224,
+            "changeTime": 1543119198224,
+            "isWorkspace": false,
+            "contentHash": "c4d465a2f53f39e5acde74c9bf55ca41e40e111d"
+        }
+    ],
+    [
+        "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\DMLOperations.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\DMLOperations.cls-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1542980138389,
+            "changeTime": 1542980138389,
+            "contentHash": "89cf89bede6638bf883b7ddfa974acafec74ca14",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ]
 ]
