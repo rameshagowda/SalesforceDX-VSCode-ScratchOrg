@@ -65,13 +65,12 @@
             "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1542980138383,
-            "changeTime": 1542980138383,
-            "contentHash": "507cffb5b1a4efbcedf15b3b187735107ffbaa96",
+            "modifiedTime": 1543144930118,
+            "changeTime": 1543144930118,
+            "contentHash": "2db93c0de22d16774802b97505c2729cc66e5afb",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -185,13 +184,12 @@
             "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\test\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1542767476830,
-            "changeTime": 1542767476830,
-            "contentHash": "778f04475b17a9bc699dc4692d0adb7822d7c82d",
+            "modifiedTime": 1543145950446,
+            "changeTime": 1543145950446,
+            "contentHash": "70668edb031fe791b9be9f8ad53a4f407900e9b3",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -528,14 +526,13 @@
         {
             "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\MyHelloWorld.cls",
             "isDirectory": false,
-            "size": 188,
-            "modifiedTime": 1542768963685,
-            "changeTime": 1542768963685,
-            "contentHash": "73d25a471fa5fc4da1ca68a420e8c7cefb993927",
+            "size": 189,
+            "modifiedTime": 1543144891743,
+            "changeTime": 1543144891743,
+            "contentHash": "a3b92fff9fe33f9e3ac7c61192c4e414732bbd7f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -646,15 +643,15 @@
     [
         "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\DMLOperations.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\DMLOperations.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 6652,
             "modifiedTime": 1543120511110,
             "changeTime": 1543120511110,
-            "isWorkspace": false,
-            "contentHash": "863715be9be75028955c1baca18d060d7d1336ef"
+            "contentHash": "863715be9be75028955c1baca18d060d7d1336ef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -670,6 +667,58 @@
             "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\VisibleSampleClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\VisibleSampleClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 894,
+            "modifiedTime": 1543147750563,
+            "changeTime": 1543147750563,
+            "contentHash": "fc4cba19ce5e23b86e0f8e969132e61fc80a6850"
+        }
+    ],
+    [
+        "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\VisibleSampleClass.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\main\\default\\classes\\VisibleSampleClass.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1543144930122,
+            "changeTime": 1543144930122,
+            "contentHash": "e80f60a0b85807b33c91e061d44a128c4964f735",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\test\\default\\classes\\VisibleSampleClassTest.cls",
+        {
+            "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\test\\default\\classes\\VisibleSampleClassTest.cls",
+            "isDirectory": false,
+            "size": 913,
+            "modifiedTime": 1543147041781,
+            "changeTime": 1543147041781,
+            "contentHash": "5426c6e16e442571d2aff0d0302dd768eb67f5f8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\test\\default\\classes\\VisibleSampleClassTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Salesforce\\Apex_VSCode\\sfdx-apex\\force-app\\test\\default\\classes\\VisibleSampleClassTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1543145950474,
+            "changeTime": 1543145950474,
+            "contentHash": "c84991c69cb76e75990d201e4d2f4afee1fa623e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
